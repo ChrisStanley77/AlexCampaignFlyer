@@ -1,0 +1,12 @@
+.headerDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.nameHeader{
+    text-align: center;
+}
+
+.subHeader{
+    text-align: center;
+}

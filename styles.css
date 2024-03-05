@@ -22,9 +22,25 @@
     text-align: center;
 }
 
+.aboutHeader{
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
 .infoText{
     text-align: center;
     color: white;
+    font-size: 20px;
+    margin-top: -15px;
+}
+
+.electText{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: -15px;
 }
 
 .pictureDiv{
@@ -38,4 +54,11 @@
     margin-right: auto;
     border-radius: 8px;
     width: 30%;
+}
+
+.reachOutText{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
 }
